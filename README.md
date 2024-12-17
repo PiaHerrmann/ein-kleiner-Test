@@ -1,5 +1,5 @@
 # ein-kleiner-Test
-die ist Test Repository
+dies ist Test Repository
 
 ## Autoren: Lars Engelhard und Pia Herrmann
 Email
